@@ -1,0 +1,110 @@
+p{
+    color: white;
+}
+
+div{
+    background-color: gray;
+    margin: 0 auto;
+    border-radius: 3mm;
+    width: 95%;
+    padding: 30px;
+}
+
+.saludos{
+    text-align: right;
+    
+}
+
+.usuario{
+    text-align: right;
+}
+
+.menu{
+    position: relative;
+    top: 20px;
+    left: 10px;
+    background-color: gray;
+    border-radius: 3mm;
+    width: 5%;
+    padding:60px;
+    text-align: center;
+    list-style: none;
+}
+
+.cumpleaños{
+    position: relative;
+    top: -430px;
+    left: 300px;
+    background-color: gray;
+    border-radius: 3mm;
+    width: 20%;
+    padding:60px;
+    list-style: none;
+    text-align: center;
+}
+
+.noticias{
+    position: relative;
+    top: -380px;
+    left: 300px;
+    background-color: gray;
+    border-radius: 3mm;
+    width: 20%;
+    padding:60px;
+    list-style: none;
+    text-align: center;
+}
+
+.avisos{
+    position: relative;
+    top: -823px;
+    left: 730px;
+    background-color: gray;
+    border-radius: 3mm;
+    width: 20%;
+    padding:60px;
+    list-style: none;
+    text-align: center;
+}
+
+.indicadores{
+    position: relative;
+    top: -773px;
+    left: 730px;
+    background-color: gray;
+    border-radius: 3mm;
+    width: 20%;
+    padding:60px;
+    list-style: none;
+    text-align: center;
+}
+
+.indicadores{
+    position: relative;
+    top: -773px;
+    left: 730px;
+    background-color: gray;
+    border-radius: 3mm;
+    width: 20%;
+    padding:60px;
+    list-style: none;
+    text-align: center;
+}
+
+.fin{
+    margin: 0 auto;
+    border-radius: 3mm;
+    width: 95%;
+    padding: 30px;
+    position: relative;
+    top: -740px;
+    background-color: gray;
+    border-radius: 3mm;
+    padding:30px;
+    list-style: none;
+    text-align: center;
+}
+
+.header .section{
+    background-color: black; 
+}
